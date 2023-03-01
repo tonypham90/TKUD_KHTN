@@ -1,23 +1,11 @@
 {
     "jupyter.kernels.filter": [
         {
-            "path": "/Users/tonypham/opt/anaconda3/bin/python",
-            "type": "pythonEnvironment"
-        },
-        {
-            "path": "/usr/local/bin/python",
-            "type": "pythonEnvironment"
-        },
-        {
-            "path": "/usr/local/bin/python3",
-            "type": "pythonEnvironment"
-        },
-        {
             "path": "/usr/bin/python3",
             "type": "pythonEnvironment"
         },
         {
-            "path": "/usr/local/bin/python3.9",
+            "path": "/Users/tonypham/Library/CloudStorage/OneDrive-MiTek/Learning/HK4/Thong ke may tinh va ung dung/TKUD_KHTN/venv/bin/python",
             "type": "pythonEnvironment"
         }
     ]
